@@ -1,2 +1,3 @@
 # Testing
-Testing for compentency
+
+Check the albums checklist file
